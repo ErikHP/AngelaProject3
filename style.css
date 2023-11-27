@@ -1,3 +1,28 @@
+.main {
+    background-color: black;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+
+}
+.photo {
+    border: 5px solid white;
+    width: 100%;
+}
+
 .mainText {
     font-family: 'Regular Libre Baskerville Font';
+    text-transform: uppercase;
+    color: white;
+    font-size: 10em;
+    text-align: center;
+}
+
+.secondaryText {
+    color: white;
+    font-size: 3.2em;
+    text-align: center;
 }
